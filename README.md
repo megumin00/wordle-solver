@@ -1,6 +1,7 @@
 # wordle-solver
 Solves wordles
-writteninn in c
+
+will be written in c/cpp
 
 
-my first c project :D
+my first c/cpp project :D
